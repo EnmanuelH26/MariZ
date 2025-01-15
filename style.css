@@ -3,6 +3,9 @@
 * {
   min-width: 0;
   font: inherit;
+
+    font-size: 10px;
+
 }
 
 *,
@@ -28,7 +31,10 @@ h1,
 h2,
 h3 {
   text-wrap: balance;
+  font-size: smaller;
 }
+
+
 
 p {
   text-wrap: pretty;
